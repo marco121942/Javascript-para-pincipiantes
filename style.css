@@ -1,0 +1,15 @@
+h1 {
+    color: green;
+}
+
+body {
+    text-align: center;
+}
+
+.cuadro {
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    border: 1px solid black;
+    width: 300px;
+}
