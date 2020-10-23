@@ -35,27 +35,27 @@ header p {
 }
 
 .pad1 {
-    background: lightcyan;
+    background: #B2FF59;
 }
 
 .pad2 {
-    background: blue;
+    background: #69F0AE;
 }
 
 .pad3 {
-    background: red;
+    background: #C8E6C9;
 }
 
 .pad4 {
-    background: yellow;
+    background: #004D40;
 }
 
 .pad5 {
-    background: orange;
+    background: #006064;
 }
 
 .pad6 {
-    background: black;
+    background: #424242;
 }
 
 @keyframes jump {
